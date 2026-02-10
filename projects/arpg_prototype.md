@@ -50,7 +50,9 @@ A similar system was used for item management during battles.
 
 The game used a pop-up icon above the player head, akin to FF9 (yes, yes, I love FF, leave me alone!), when actions were available to the player (talking to an NPC, investigating an object, opening a teasure chest).
 
-#### gif de pop-up a aparecer
+<!-- [Opening a treasure chest](assets/arpg_prototype/opening_chest_20fps_320p.gif) -->
+<img src="assets/arpg_prototype/opening_chest_20fps_320p.gif" alt="Opening a treasure chest" width="640" style="image-rendering: pixelated;">
+
 
 For in-game tutorial or notifications, a notification system was developed to show special information on the top-right corner of the screen
 
