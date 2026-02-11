@@ -28,37 +28,33 @@ The combat system was active and real-time. The player could move freely and so 
 The player had access to magic that could be used as long as the player had the necessary mana for the respective spell.
 The regain mana, the player could stop and focus for some seconds.
 
-#### gif a ganhar mana
+#### gif a ganhar mana - x
 
 ## Battle UI
 
 In regards to the UI, the player portrait was shown in the top left corner of the map, along with Health, Mana and Stamina.
-
-#### imagem do portrait
+<img src="assets/arpg_prototype/ui_portrait.png" alt="Dash" width="320" style="image-rendering: pixelated;">
 
 For the enemies, a dynamic UI was created. It appeared when they showed up in the map and disappeared after beign defeated. In case of bosses, they had a unique look, but functioned more of less the same (they were prioritized/always on top).
-
-#### gif do UI de inimigos/bosses a aparecer
+<video src="assets/arpg_prototype/ui_boss.mp4" autoplay loop muted style="width:480px;"></video>
 
 For the spells, the player could rotate between the available spells. These would be seen in the spells UI at the bottom right of the screen.
-
-#### gif do seleção de spells
+<video src="assets/arpg_prototype/ui_spells.mp4" autoplay loop muted style="width:480px;"></video>
 
 A similar system was used for item management during battles.
-
-#### gif dos items
+<video src="assets/arpg_prototype/ui_items.mp4" autoplay loop muted style="width:480px;"></video>
 
 ## Exploration UI
 
 The game used a pop-up icon above the player head, akin to FF9 (yes, yes, I love FF, leave me alone!), when actions were available to the player (talking to an NPC, investigating an object, opening a teasure chest).
 
 <!-- [Opening a treasure chest](assets/arpg_prototype/opening_chest_20fps_320p.gif) -->
-#### meter gif a mostrar vários icons de ação
+<video src="assets/arpg_prototype/actions.mp4" autoplay loop muted style="width:480px;"></video>
 
 
 For in-game tutorial or notifications, a notification system was developed to show special information on the top-right corner of the screen
 
-#### gif com exemplo da cena do tutorial
+#### gif com exemplo da cena do tutorial - x
 
 #### explicar o tutorial?
 
@@ -70,7 +66,9 @@ There were HHHHHH types of bubbles for A, B and C.
 #### gif showing Conversation UI
 
 For the chest UI, a special bubble would show up bottom-centered stating what the player obtained.
-<img src="assets/arpg_prototype/opening_chest_20fps_320p.gif" alt="Opening a treasure chest" width="640" style="image-rendering: pixelated;">
+<!-- <img src="assets/arpg_prototype/opening_chest_20fps_320p.gif" alt="Opening a treasure chest" width="640" style="image-rendering: pixelated;"> -->
+<video src="assets/arpg_prototype/chest.mp4" autoplay loop muted style="width:480px;"></video>
+
 There was also logic for storing the items in the inventory, but inventory management UI was not yet created, other then for the ones that were to be used in battle that showed up on the bottom left corner of the screen.
 
 ## Final thoughts
