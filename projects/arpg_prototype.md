@@ -27,8 +27,7 @@ The combat system was active and real-time. The player could move freely and so 
 
 The player had access to magic that could be used as long as the player had the necessary mana for the respective spell.
 The regain mana, the player could stop and focus for some seconds.
-
-#### gif a ganhar mana - x
+<video src="assets/arpg_prototype/recover_mana.mp4" autoplay loop muted style="width:480px;"></video>
 
 ## Battle UI
 
@@ -53,8 +52,7 @@ The game used a pop-up icon above the player head, akin to FF9 (yes, yes, I love
 
 
 For in-game tutorial or notifications, a notification system was developed to show special information on the top-right corner of the screen
-
-#### gif com exemplo da cena do tutorial - x
+<video src="assets/arpg_prototype/ui_tutorial_attack.mp4" autoplay loop muted style="width:480px;"></video>
 
 #### explicar o tutorial?
 
@@ -62,8 +60,7 @@ For the conversations, I developed a 4 conversation bubble sizes. The logic on w
 For translations, the idea was to ZZZZZZ.
 The arrow was dynamic and showed up from the source of the conversation.
 There were HHHHHH types of bubbles for A, B and C.
-
-#### gif showing Conversation UI
+<video src="assets/arpg_prototype/ui_chat.mp4" autoplay loop muted style="width:480px;"></video>
 
 For the chest UI, a special bubble would show up bottom-centered stating what the player obtained.
 <!-- <img src="assets/arpg_prototype/opening_chest_20fps_320p.gif" alt="Opening a treasure chest" width="640" style="image-rendering: pixelated;"> -->
