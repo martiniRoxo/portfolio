@@ -72,6 +72,7 @@ For the conversations, I developed 4 conversation bubble sizes. The logic on whi
 <video src="assets/arpg_prototype/ui_chat.mp4" autoplay loop muted style="width:480px;"></video><br>
 
 The ballon source indicator was dynamic and showed up from the talker.<br>
+<br>
 There were 4 types of bubbles:<br>
 - Conversation bubbles<br>
 - Obtaining items<br>
