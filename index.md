@@ -19,6 +19,8 @@ Both the isometric look of the game and the story-heavy elements I had planned w
 
 [Click here](projects/arpg_prototype.md) to take an in-depth look into what I developed for this project, design choices and many other details.
 
+<img src="projects/assets/french_separator_big.png" alt="Chest separator" width="460" style="image-rendering: pixelated;">
+
 ## Portugal Tourism GP 
 Portugal Tourism GP! is an isometric platformer pixel art game developed and published on iOS, Android and Steam (Windows, Linux and macOS). Players choose a European stereotype (think baguettes and pizzas) to race through the different locations in Portugal. In each level, players must navigate unique challenges and objectives and try to reach the end of the level with some money left. 
 <img src="projects/assets/ptgp/ptgp_preview_cropped.png" alt="PTGP Cover" width="460" style="image-rendering: pixelated;"><br>
